@@ -57,16 +57,14 @@ The exercises and real-world scenarios helped me progress from foundational skil
 
 ---
 
-## 📖 Summary Article: 30-Day Growth Process
-- Followed a **Zero-Footprint approach**—optimized formulas, uncluttered visuals.  
-- Moved from manual data entry to automated dashboards handling thousands of rows.  
-- Gained the ability to **transform raw data into actionable business insights**.  
+## 📖 Summary Article
+A detailed article summarizing my 30-day Excel learning journey, including key insights, challenges, and real-world applications, will be published soon.  
 
 ---
 
-## 📂 Repository Navigation
-- Each folder is labeled by Day (Day01 → Day30).  
-- Inside each folder:  
-  - **Raw Dataset** – Original data provided.  
-  - **Cleaned Version** – Processed & formatted data.  
-  - **Final Analysis / Visual** – Charts, PivotTables, dashboards, or macros created.  
+## 📂 Repository Structure
+- Each file represents a **daily practice workbook** (Day01 → Day30).  
+- Each workbook contains:  
+  - **Dataset** – The original data provided for the exercise  
+  - **Practice Work** – My step-by-step analysis and transformations  
+  - **Final Output** – Completed calculations, charts, PivotTables, or dashboards  
