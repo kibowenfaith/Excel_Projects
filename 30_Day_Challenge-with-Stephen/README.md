@@ -54,6 +54,7 @@ The exercises and real-world scenarios helped me progress from foundational skil
 - **Scenario:** Analyze global travel bookings and customer feedback.  
 - **Process:** Cleaned messy trip logs, correlated loyalty tiers with bookings, and flagged recurring support issues.  
 - **Outcome:** Built a dynamic Excel dashboard for revenue by agent and region, with predictive forecasting for next-quarter bookings and automated satisfaction tracking.
+![Travel Agency Dashboard](images/day30-dashboard.png)
 
 ---
 
